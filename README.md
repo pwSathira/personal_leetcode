@@ -7,15 +7,18 @@ This repository contains a collection of solutions to various LeetCode problems,
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pwSathira/personal_leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pwSathira/personal_leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
