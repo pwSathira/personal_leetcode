@@ -28,6 +28,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0007-reverse-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pwSathira/personal_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
 |  |
