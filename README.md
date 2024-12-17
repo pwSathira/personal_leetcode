@@ -7,6 +7,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pwSathira/personal_leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/pwSathira/personal_leetcode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pwSathira/personal_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -38,4 +39,8 @@ This repository contains a collection of solutions to various LeetCode problems,
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pwSathira/personal_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/pwSathira/personal_leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
