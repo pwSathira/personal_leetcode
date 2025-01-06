@@ -12,6 +12,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0066-plus-one](https://github.com/pwSathira/personal_leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pwSathira/personal_leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pwSathira/personal_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -50,4 +51,12 @@ This repository contains a collection of solutions to various LeetCode problems,
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pwSathira/personal_leetcode/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pwSathira/personal_leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pwSathira/personal_leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
