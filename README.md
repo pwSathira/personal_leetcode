@@ -11,6 +11,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0035-search-insert-position](https://github.com/pwSathira/personal_leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pwSathira/personal_leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/pwSathira/personal_leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/pwSathira/personal_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pwSathira/personal_leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -21,6 +22,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0001-two-sum](https://github.com/pwSathira/personal_leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/pwSathira/personal_leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
