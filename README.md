@@ -52,6 +52,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/pwSathira/personal_leetcode/tree/master/0027-remove-element) |
+| [1894-merge-strings-alternately](https://github.com/pwSathira/personal_leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | ------- |
 | [0013-roman-to-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0013-roman-to-integer) |
 | [1524-string-matching-in-an-array](https://github.com/pwSathira/personal_leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1894-merge-strings-alternately](https://github.com/pwSathira/personal_leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pwSathira/personal_leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Prefix Sum
 |  |
