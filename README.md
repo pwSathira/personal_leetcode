@@ -60,6 +60,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0027-remove-element](https://github.com/pwSathira/personal_leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/pwSathira/personal_leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -70,6 +71,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | ------- |
 | [0013-roman-to-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/pwSathira/personal_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1524-string-matching-in-an-array](https://github.com/pwSathira/personal_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/pwSathira/personal_leetcode/tree/master/1894-merge-strings-alternately) |
