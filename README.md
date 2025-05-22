@@ -7,6 +7,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pwSathira/personal_leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/pwSathira/personal_leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pwSathira/personal_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pwSathira/personal_leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pwSathira/personal_leetcode/tree/master/0035-search-insert-position) |
@@ -59,6 +60,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pwSathira/personal_leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pwSathira/personal_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pwSathira/personal_leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -96,6 +98,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pwSathira/personal_leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/pwSathira/personal_leetcode/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
