@@ -7,9 +7,7 @@ class Solution:
             for s in strs:
                 if len(s) == 0:
                     return ""
-                if i >= len(s):
-                    return prefix
-                elif longest_string[i] != s[i]:
+                if i >= len(s) or longest_string[i] != s[i]:
                     return prefix
                 
             prefix += longest_string[i]
