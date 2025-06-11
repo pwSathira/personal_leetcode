@@ -18,6 +18,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0283-move-zeroes](https://github.com/pwSathira/personal_leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/pwSathira/personal_leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/pwSathira/personal_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pwSathira/personal_leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/pwSathira/personal_leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -117,4 +118,8 @@ This repository contains a collection of solutions to various LeetCode problems,
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pwSathira/personal_leetcode/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/pwSathira/personal_leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
