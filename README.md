@@ -42,6 +42,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0013-roman-to-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/pwSathira/personal_leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
+| [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [1319-unique-number-of-occurrences](https://github.com/pwSathira/personal_leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pwSathira/personal_leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -53,6 +54,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
+| [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pwSathira/personal_leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pwSathira/personal_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -60,6 +62,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pwSathira/personal_leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Math
@@ -74,6 +77,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pwSathira/personal_leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pwSathira/personal_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
@@ -113,6 +117,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0345-reverse-vowels-of-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/pwSathira/personal_leetcode/tree/master/0443-string-compression) |
+| [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/pwSathira/personal_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1524-string-matching-in-an-array](https://github.com/pwSathira/personal_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pwSathira/personal_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -138,6 +143,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0011-container-with-most-water](https://github.com/pwSathira/personal_leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/pwSathira/personal_leetcode/tree/master/0605-can-place-flowers) |
+| [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pwSathira/personal_leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Dynamic Programming
 |  |
