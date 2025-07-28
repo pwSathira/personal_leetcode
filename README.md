@@ -104,6 +104,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0443-string-compression](https://github.com/pwSathira/personal_leetcode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pwSathira/personal_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/pwSathira/personal_leetcode/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pwSathira/personal_leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,6 +197,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/pwSathira/personal_leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pwSathira/personal_leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
