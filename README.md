@@ -120,6 +120,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0345-reverse-vowels-of-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/pwSathira/personal_leetcode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/pwSathira/personal_leetcode/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/pwSathira/personal_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1524-string-matching-in-an-array](https://github.com/pwSathira/personal_leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -146,6 +147,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0011-container-with-most-water](https://github.com/pwSathira/personal_leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/pwSathira/personal_leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/pwSathira/personal_leetcode/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pwSathira/personal_leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Dynamic Programming
@@ -182,6 +184,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/pwSathira/personal_leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/pwSathira/personal_leetcode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
