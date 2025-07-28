@@ -119,6 +119,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0151-reverse-words-in-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/pwSathira/personal_leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/pwSathira/personal_leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/pwSathira/personal_leetcode/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
@@ -175,6 +176,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/pwSathira/personal_leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/pwSathira/personal_leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
@@ -202,4 +204,8 @@ This repository contains a collection of solutions to various LeetCode problems,
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/pwSathira/personal_leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
