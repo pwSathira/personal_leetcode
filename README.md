@@ -15,6 +15,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0035-search-insert-position](https://github.com/pwSathira/personal_leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pwSathira/personal_leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pwSathira/personal_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pwSathira/personal_leetcode/tree/master/0238-product-of-array-except-self) |
@@ -219,4 +220,20 @@ This repository contains a collection of solutions to various LeetCode problems,
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pwSathira/personal_leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/pwSathira/personal_leetcode/tree/master/0394-decode-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pwSathira/personal_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pwSathira/personal_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pwSathira/personal_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pwSathira/personal_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
