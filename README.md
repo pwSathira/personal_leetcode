@@ -16,6 +16,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0066-plus-one](https://github.com/pwSathira/personal_leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pwSathira/personal_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/pwSathira/personal_leetcode/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pwSathira/personal_leetcode/tree/master/0238-product-of-array-except-self) |
@@ -162,6 +163,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/pwSathira/personal_leetcode/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pwSathira/personal_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
