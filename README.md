@@ -19,6 +19,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0118-pascals-triangle](https://github.com/pwSathira/personal_leetcode/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/pwSathira/personal_leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/pwSathira/personal_leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pwSathira/personal_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pwSathira/personal_leetcode/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0015-3sum](https://github.com/pwSathira/personal_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pwSathira/personal_leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/pwSathira/personal_leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/pwSathira/personal_leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
 | [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -130,6 +132,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0014-longest-common-prefix](https://github.com/pwSathira/personal_leetcode/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/pwSathira/personal_leetcode/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/pwSathira/personal_leetcode/tree/master/0394-decode-string) |
@@ -159,6 +162,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pwSathira/personal_leetcode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/pwSathira/personal_leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/pwSathira/personal_leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/pwSathira/personal_leetcode/tree/master/0649-dota2-senate) |
