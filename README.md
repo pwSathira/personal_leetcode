@@ -18,6 +18,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pwSathira/personal_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/pwSathira/personal_leetcode/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
+| [0169-majority-element](https://github.com/pwSathira/personal_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pwSathira/personal_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pwSathira/personal_leetcode/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0013-roman-to-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/pwSathira/personal_leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
+| [0169-majority-element](https://github.com/pwSathira/personal_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
 | [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [1319-unique-number-of-occurrences](https://github.com/pwSathira/personal_leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -61,6 +63,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | ------- |
 | [0015-3sum](https://github.com/pwSathira/personal_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pwSathira/personal_leetcode/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/pwSathira/personal_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
 | [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -70,6 +73,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pwSathira/personal_leetcode/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pwSathira/personal_leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -226,6 +230,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pwSathira/personal_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/pwSathira/personal_leetcode/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
