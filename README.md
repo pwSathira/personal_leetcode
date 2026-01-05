@@ -20,6 +20,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/pwSathira/personal_leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/pwSathira/personal_leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/pwSathira/personal_leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pwSathira/personal_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pwSathira/personal_leetcode/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0012-integer-to-roman](https://github.com/pwSathira/personal_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/pwSathira/personal_leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/pwSathira/personal_leetcode/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/pwSathira/personal_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pwSathira/personal_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
@@ -112,6 +114,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0027-remove-element](https://github.com/pwSathira/personal_leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/pwSathira/personal_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pwSathira/personal_leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0392-is-subsequence) |
