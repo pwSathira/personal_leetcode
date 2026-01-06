@@ -17,6 +17,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pwSathira/personal_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/pwSathira/personal_leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pwSathira/personal_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/pwSathira/personal_leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/pwSathira/personal_leetcode/tree/master/0179-largest-number) |
@@ -175,6 +176,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/pwSathira/personal_leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pwSathira/personal_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pwSathira/personal_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
