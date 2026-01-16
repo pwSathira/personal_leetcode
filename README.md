@@ -52,6 +52,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0138-copy-list-with-random-pointer](https://github.com/pwSathira/personal_leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/pwSathira/personal_leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/pwSathira/personal_leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pwSathira/personal_leetcode/tree/master/0217-contains-duplicate) |
 | [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [1319-unique-number-of-occurrences](https://github.com/pwSathira/personal_leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -147,6 +148,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/pwSathira/personal_leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/pwSathira/personal_leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/pwSathira/personal_leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0392-is-subsequence) |
