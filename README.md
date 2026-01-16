@@ -88,6 +88,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0012-integer-to-roman](https://github.com/pwSathira/personal_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/pwSathira/personal_leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/pwSathira/personal_leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pwSathira/personal_leetcode/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/pwSathira/personal_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pwSathira/personal_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -129,6 +130,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pwSathira/personal_leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/pwSathira/personal_leetcode/tree/master/0069-sqrtx) |
 | [1046-max-consecutive-ones-iii](https://github.com/pwSathira/personal_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## String
 |  |
