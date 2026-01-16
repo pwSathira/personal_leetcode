@@ -222,6 +222,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pwSathira/personal_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/pwSathira/personal_leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/pwSathira/personal_leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pwSathira/personal_leetcode/tree/master/0328-odd-even-linked-list) |
@@ -237,6 +238,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pwSathira/personal_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/pwSathira/personal_leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/pwSathira/personal_leetcode/tree/master/0394-decode-string) |
 ## Divide and Conquer
