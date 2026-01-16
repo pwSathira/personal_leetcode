@@ -89,6 +89,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0013-roman-to-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/pwSathira/personal_leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/pwSathira/personal_leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/pwSathira/personal_leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pwSathira/personal_leetcode/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/pwSathira/personal_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pwSathira/personal_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -184,6 +185,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pwSathira/personal_leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/pwSathira/personal_leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pwSathira/personal_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
@@ -240,6 +242,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pwSathira/personal_leetcode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 ## Recursion
 |  |
