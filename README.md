@@ -138,6 +138,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0014-longest-common-prefix](https://github.com/pwSathira/personal_leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/pwSathira/personal_leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/pwSathira/personal_leetcode/tree/master/0058-length-of-last-word) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/pwSathira/personal_leetcode/tree/master/0179-largest-number) |
