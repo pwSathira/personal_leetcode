@@ -135,6 +135,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0012-integer-to-roman](https://github.com/pwSathira/personal_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pwSathira/personal_leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/pwSathira/personal_leetcode/tree/master/0020-valid-parentheses) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/pwSathira/personal_leetcode/tree/master/0179-largest-number) |
@@ -201,6 +202,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pwSathira/personal_leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/pwSathira/personal_leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/pwSathira/personal_leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/2470-removing-stars-from-a-string) |
