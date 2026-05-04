@@ -4,8 +4,8 @@ This repository contains a collection of solutions to various LeetCode problems,
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/pwSathira/personal_leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pwSathira/personal_leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pwSathira/personal_leetcode/tree/master/0015-3sum) |
@@ -44,8 +44,8 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pwSathira/personal_leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pwSathira/personal_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/pwSathira/personal_leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/pwSathira/personal_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0013-roman-to-integer) |
@@ -63,8 +63,8 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [2428-equal-row-and-column-pairs](https://github.com/pwSathira/personal_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pwSathira/personal_leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/pwSathira/personal_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pwSathira/personal_leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/pwSathira/personal_leetcode/tree/master/0169-majority-element) |
@@ -76,15 +76,15 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [1798-max-number-of-k-sum-pairs](https://github.com/pwSathira/personal_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pwSathira/personal_leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/pwSathira/personal_leetcode/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pwSathira/personal_leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pwSathira/personal_leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0007-reverse-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/pwSathira/personal_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0013-roman-to-integer) |
@@ -95,22 +95,22 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [1146-greatest-common-divisor-of-strings](https://github.com/pwSathira/personal_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pwSathira/personal_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pwSathira/personal_leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pwSathira/personal_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0735-asteroid-collision](https://github.com/pwSathira/personal_leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/pwSathira/personal_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pwSathira/personal_leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pwSathira/personal_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/pwSathira/personal_leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pwSathira/personal_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pwSathira/personal_leetcode/tree/master/0016-3sum-closest) |
@@ -130,14 +130,14 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [1894-merge-strings-alternately](https://github.com/pwSathira/personal_leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pwSathira/personal_leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0035-search-insert-position](https://github.com/pwSathira/personal_leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/pwSathira/personal_leetcode/tree/master/0069-sqrtx) |
 | [1046-max-consecutive-ones-iii](https://github.com/pwSathira/personal_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0012-integer-to-roman](https://github.com/pwSathira/personal_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pwSathira/personal_leetcode/tree/master/0014-longest-common-prefix) |
@@ -164,21 +164,21 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pwSathira/personal_leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2470-removing-stars-from-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/pwSathira/personal_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/pwSathira/personal_leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/pwSathira/personal_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/pwSathira/personal_leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pwSathira/personal_leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/pwSathira/personal_leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/pwSathira/personal_leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/pwSathira/personal_leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -187,8 +187,8 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pwSathira/personal_leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/pwSathira/personal_leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/pwSathira/personal_leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pwSathira/personal_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -196,44 +196,44 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0392-is-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pwSathira/personal_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/pwSathira/personal_leetcode/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/pwSathira/personal_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/pwSathira/personal_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pwSathira/personal_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pwSathira/personal_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/pwSathira/personal_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pwSathira/personal_leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/pwSathira/personal_leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/pwSathira/personal_leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0969-number-of-recent-calls](https://github.com/pwSathira/personal_leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0649-dota2-senate](https://github.com/pwSathira/personal_leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/pwSathira/personal_leetcode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0969-number-of-recent-calls](https://github.com/pwSathira/personal_leetcode/tree/master/0969-number-of-recent-calls) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pwSathira/personal_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pwSathira/personal_leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/pwSathira/personal_leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -241,35 +241,35 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0328-odd-even-linked-list](https://github.com/pwSathira/personal_leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pwSathira/personal_leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/pwSathira/personal_leetcode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/pwSathira/personal_leetcode/tree/master/0140-word-break-ii) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pwSathira/personal_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/pwSathira/personal_leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/pwSathira/personal_leetcode/tree/master/0394-decode-string) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pwSathira/personal_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/pwSathira/personal_leetcode/tree/master/0169-majority-element) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pwSathira/personal_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pwSathira/personal_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pwSathira/personal_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
