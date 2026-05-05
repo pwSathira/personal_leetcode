@@ -86,6 +86,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/pwSathira/personal_leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/pwSathira/personal_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pwSathira/personal_leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/pwSathira/personal_leetcode/tree/master/0066-plus-one) |
