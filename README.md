@@ -94,6 +94,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0069-sqrtx](https://github.com/pwSathira/personal_leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pwSathira/personal_leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pwSathira/personal_leetcode/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/pwSathira/personal_leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1146-greatest-common-divisor-of-strings](https://github.com/pwSathira/personal_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/pwSathira/personal_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
@@ -105,6 +106,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/pwSathira/personal_leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0735-asteroid-collision](https://github.com/pwSathira/personal_leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/pwSathira/personal_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/pwSathira/personal_leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -155,6 +157,7 @@ This repository contains a collection of solutions to various LeetCode problems,
 | [0345-reverse-vowels-of-a-string](https://github.com/pwSathira/personal_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pwSathira/personal_leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/pwSathira/personal_leetcode/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/pwSathira/personal_leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/pwSathira/personal_leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/pwSathira/personal_leetcode/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/pwSathira/personal_leetcode/tree/master/0778-reorganize-string) |
